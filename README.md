@@ -25,6 +25,6 @@ The constructed dictionary consists of 5 sections, each of which contains phrase
 - грубо говоря ‘roughly speaking’. 
 
 
-The dictionary comes as a tab-separated `.txt` file where every line contains a Russian phrase and one of its English translations. For every Russian phrase there may be up to 10 translations, but on average there are 1-2. If there are several translations for a phrase, they appear in consecutive lines.
+The dictionary comes as tab-separated `.txt` files where every line contains a Russian phrase and one of its English translations. For every Russian phrase there may be up to 10 translations, but on average there are 1-2. If there are several translations for a phrase, they appear in consecutive lines.
 
 The link to the paper with the detailed explanation of how this dictionary was constructed is to be provided.
