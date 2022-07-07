@@ -16,7 +16,7 @@ The constructed dictionary consists of 5 sections, each of which contains phrase
 - а именно ‘namely’,
 - если бы ‘if only’;
 
-4. particles (обороты в функции частиц), n=24, e.g.:
+4. particles (обороты в функции частиц), n=16, e.g.:
 - едва не ‘nearly’,
 - как раз ‘exactly’; 
 
